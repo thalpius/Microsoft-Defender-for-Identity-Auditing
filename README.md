@@ -21,3 +21,4 @@ Import-Gpo -BackupGpoName "Microsoft Defender for Identity Auditing" -TargetName
 ```
 
 For more information see my blog post:
+https://thalpius.com/2022/07/30/microsoft-defender-for-identity-auditing/
