@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> "This repo is now in 'Blue Screen' mode—archived and frozen in time!"
+
 # Microsoft Defender for Identity Auditing
 
 Microsoft Defender for Identity monitors your domain controllers by capturing and parsing network traffic and leveraging Windows events directly from your domain controllers. Auditing needs to be enabled for the Windows events to appear in the event viewer. Unfortunately, auditing is not on by default. Microsoft created a great docs page on configuring Windows event collection, but it is "a lot" of manual work, so I decided to make life a bit easier. I created an export of the policies needed for Microsoft Defender for Identity to enhance detection using the Windows events for others to import using a single command.
